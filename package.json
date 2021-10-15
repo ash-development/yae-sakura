@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ash-development/yae-sakura#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "discord.js": "^13.2.0"
   }
 }
