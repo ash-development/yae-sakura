@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ash-development/yae-sakura/issues"
   },
-  "homepage": "https://github.com/ash-development/yae-sakura#readme"
+  "homepage": "https://github.com/ash-development/yae-sakura#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
 }
