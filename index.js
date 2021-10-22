@@ -1,4 +1,5 @@
 const { Client, Intents } = require("discord.js");
+const chalk = require('chalk');
 const client = new Client({
   intents: [Intents.FLAGS.GUILDS]
 });
@@ -15,4 +16,4 @@ client.on("interactionCreate", async (interaction) => {
   }
 });
 
-client.login("SuperSecretBotTokenHere");
+client.login("OTAxMDc0NDc4NDk3NDA2OTc2.YXKlAA.949B2urd6dHQbZpFD9gklblXmas");
